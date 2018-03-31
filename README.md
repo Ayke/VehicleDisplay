@@ -1,2 +1,11 @@
 # VehicleDisplay
-This repository is for storing files only. The database configuration is not included. For a simple display, see DemoDisplay.gif
+
+## Introduction
+This project could fetch vehicles' location data from database and post their positions and traces onto Google Map.
+
+## Quick Preview
+![SimpleDemo](DemoDisplay.gif)
+As you can see, all vehicles inforamtion and traces are marked onto Google Map.
+
+## Comments
+* This repository is only for storing files, so the database configurations are not included
